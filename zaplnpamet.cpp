@@ -9,6 +9,7 @@ void main()
 	while(1){
 		a*=10;
 		pole= (int *) realloc(pole,a);
+		//koemntár
 	}
 }
 
